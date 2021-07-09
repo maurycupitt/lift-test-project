@@ -1,0 +1,19 @@
+{
+  "name": "lift-test-project",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurycupitt/lift-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurycupitt/lift-test-project/issues"
+  },
+  "homepage": "https://github.com/maurycupitt/lift-test-project#readme"
+}
