@@ -1,1 +1,2 @@
+tools = ["Semgrep"]
 customTools = [".lift/tool.sh run"]
