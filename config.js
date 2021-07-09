@@ -1,0 +1,5 @@
+{
+  "creds": {
+    "password": "admin123"
+  }
+}
