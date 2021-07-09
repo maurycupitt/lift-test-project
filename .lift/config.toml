@@ -1,1 +1,1 @@
-customTools = [".lift/tool.sh run"]
+customTools = ["./.lift/tool.sh $(pwd) $(git rev-parse HEAD) run"]
