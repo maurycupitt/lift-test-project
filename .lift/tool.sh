@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 function run() {
     for i in $(git ls-files | grep -v lift) ; do
+        echo "Processing file: $i"
         if ! jq $i >/dev/null 2>/dev/null ; then
             echo "[ { \"type\" : \"bad json\", \"file\" : \"$i\", \"line\": 1,\
                       \"message\" : \"JSON is many things, but it is not this.\",\
