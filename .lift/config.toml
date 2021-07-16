@@ -1,1 +1,1 @@
-customTools = ["python ./.lift/lift-tool.py run"]
+customTools = [".lift/lift-tool.py run"]
