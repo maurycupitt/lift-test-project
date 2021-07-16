@@ -1,3 +1,3 @@
 # lift-test-project
 
-Update counter: 2
+Update counter: 3
